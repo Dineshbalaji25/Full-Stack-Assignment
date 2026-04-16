@@ -117,5 +117,3 @@ Full-Stack-Assignment/
     └── src/components/ # Shared UI (Navbar, Product Cards)
 ```
 
-## 📄 License
-MIT
